@@ -1,0 +1,3 @@
+class Frog < ApplicationRecord
+    
+end
